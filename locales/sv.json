@@ -391,7 +391,9 @@
   "shopify": {
     "checkout": {
       "tips": {
-        "title": "Unicef charity"
+        "title": "Unicef charity",
+        "description": "Unicef charity",
+        "presets_description": "Unicef charity"
       }
     }
   }
