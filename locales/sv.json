@@ -397,8 +397,7 @@
         "custom_label": "Give charity",
         "add_tip": "add charity",
         "update_tip": "Charity updated",
-        "message": "Thank you for you charity",
-        "preset_label": "1"
+        "message": "Thank you for you charity"
       }
     }
   }
