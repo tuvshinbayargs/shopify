@@ -394,7 +394,9 @@
         "title": "Unicef charity",
         "description": "Unicef charity",
         "presets_description": "Unicef charity",
-        "custom_label": "Give charity"
+        "custom_label": "Give charity",
+        "add_tip": "add charity",
+        "update_tip": "Charity updated"
       }
     }
   }
