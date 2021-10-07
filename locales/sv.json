@@ -398,6 +398,9 @@
         "add_tip": "add charity",
         "update_tip": "Charity updated",
         "message": "Thank you for you charity"
+      },
+      "order_summary": {
+        "tip_label": "Charity"
       }
     }
   }
