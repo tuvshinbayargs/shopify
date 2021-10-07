@@ -393,7 +393,8 @@
       "tips": {
         "title": "Unicef charity",
         "description": "Unicef charity",
-        "presets_description": "Unicef charity"
+        "presets_description": "Unicef charity",
+        "custom_label": "Give charity"
       }
     }
   }
