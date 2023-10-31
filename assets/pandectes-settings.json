@@ -5,7 +5,7 @@
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698729977,
+  "tsPublished": 1698730204,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -26,7 +26,7 @@
         "en": "We respect your privacy"
       },
       "consentText": {
-        "en": "This website uses cookies to ensure you get the best experience."
+        "en": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services."
       },
       "dismissButtonText": {
         "en": "Ok"
@@ -318,7 +318,7 @@
       "imprintHref": "\/",
       "close": "&#10005;",
       "target": "",
-      "logo": "<img class=\"cc-banner-logo\" height=\"40\" width=\"40\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0464\/8573\/3531\/t\/10\/assets\/pandectes-logo.png?v=1698718669\" alt=\"Gobi Cashmere Kazakhstan\" \/>"
+      "logo": ""
     },
     "window": "<div role=\"dialog\" aria-live=\"polite\" aria-label=\"cookieconsent\" aria-describedby=\"cookieconsent:desc\" id=\"pandectes-banner\" class=\"cc-window-wrapper cc-top-wrapper\"><div class=\"pd-cookie-banner-window cc-window {{classes}}\"><!--googleoff: all-->{{children}}<!--googleon: all--><\/div><\/div>",
     "compliance": {
@@ -326,7 +326,7 @@
     },
     "type": "opt-both",
     "layouts": {
-      "basic": "{{logo}}{{messagelink}}{{compliance}}{{close}}"
+      "basic": "{{messagelink}}{{compliance}}{{close}}"
     },
     "position": "top",
     "theme": "wired",
