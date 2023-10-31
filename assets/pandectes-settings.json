@@ -5,7 +5,7 @@
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698730204,
+  "tsPublished": 1698730231,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -23,52 +23,68 @@
   "texts": {
     "managed": {
       "headerText": {
-        "en": "We respect your privacy"
+        "en": "We respect your privacy",
+        "kk": "Біз сіздің жеке өміріңізді құрметтейміз"
       },
       "consentText": {
-        "en": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services."
+        "en": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
+        "kk": "Біз cookie файлдарын мазмұн мен жарнамаларды жекелендіру, әлеуметтік медиа мүмкіндіктерін қамтамасыз ету және трафикті талдау үшін пайдаланамыз. Сондай-ақ біз сайтты пайдалануыңыз туралы ақпаратты әлеуметтік медиа, жарнама және аналитикалық серіктестерімізбен бөлісеміз, олар оны сіз оларға берген немесе олардың қызметтерін пайдалануыңыздан жинаған басқа ақпаратпен біріктіруі мүмкін."
       },
       "dismissButtonText": {
-        "en": "Ok"
+        "en": "Ok",
+        "kk": "Жарайды ма"
       },
       "linkText": {
-        "en": "Learn more"
+        "en": "Learn more",
+        "kk": "Көбірек білу үшін"
       },
       "imprintText": {
-        "en": "Imprint"
+        "en": "Imprint",
+        "kk": "Басып шығару"
       },
       "preferencesButtonText": {
-        "en": "Preferences"
+        "en": "Preferences",
+        "kk": "Параметрлер"
       },
       "allowButtonText": {
-        "en": "Accept"
+        "en": "Accept",
+        "kk": "Қабылдау"
       },
       "denyButtonText": {
-        "en": "Decline"
+        "en": "Decline",
+        "kk": "Бас тарту"
       },
       "leaveSiteButtonText": {
-        "en": "Leave this site"
+        "en": "Leave this site",
+        "kk": "Бұл сайттан кетіңіз"
       },
       "cookiePolicyText": {
-        "en": "Cookie policy"
+        "en": "Cookie policy",
+        "kk": "Cookie саясаты"
       },
       "preferencesPopupTitleText": {
-        "en": "Manage consent preferences"
+        "en": "Manage consent preferences",
+        "kk": "Келісім параметрлерін басқарыңыз"
       },
       "preferencesPopupIntroText": {
-        "en": "We use cookies to optimize website functionality, analyze the performance, and provide personalized experience to you. Some cookies are essential to make the website operate and function correctly. Those cookies cannot be disabled. In this window you can manage your preference of cookies."
+        "en": "We use cookies to optimize website functionality, analyze the performance, and provide personalized experience to you. Some cookies are essential to make the website operate and function correctly. Those cookies cannot be disabled. In this window you can manage your preference of cookies.",
+        "kk": "Біз cookie файлдарын веб-сайттың функционалдығын оңтайландыру, өнімділікті талдау және сізге жеке тәжірибені қамтамасыз ету үшін пайдаланамыз. Кейбір cookie файлдары веб-сайттың дұрыс жұмыс істеуі және жұмыс істеуі үшін өте маңызды. Бұл cookie файлдарын өшіру мүмкін емес. Бұл терезеде сіз cookie файлдарының таңдауын басқара аласыз."
       },
       "preferencesPopupCloseButtonText": {
-        "en": "Close"
+        "en": "Close",
+        "kk": "Жабық"
       },
       "preferencesPopupAcceptAllButtonText": {
-        "en": "Accept all"
+        "en": "Accept all",
+        "kk": "Барлығын қабылдаңыз"
       },
       "preferencesPopupRejectAllButtonText": {
-        "en": "Reject all"
+        "en": "Reject all",
+        "kk": "Барлығын қабылдамау"
       },
       "preferencesPopupSaveButtonText": {
-        "en": "Save preferences"
+        "en": "Save preferences",
+        "kk": "Параметрлерді сақтаңыз"
       },
       "accessSectionTitleText": {
         "en": "Data portability"
