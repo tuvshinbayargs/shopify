@@ -5,7 +5,7 @@
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698729883,
+  "tsPublished": 1698729977,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -13,11 +13,11 @@
     "showDateGenerated": true
   },
   "language": {
-    "languageMode": "Single",
+    "languageMode": "Multilingual",
     "fallbackLanguage": "en",
-    "languageDetection": "browser",
+    "languageDetection": "url",
     "languagesSupported": [
-
+      "kk"
     ]
   },
   "texts": {
