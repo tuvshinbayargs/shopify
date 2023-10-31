@@ -1,11 +1,11 @@
 {
   "store": {
-    "plan": "basic",
+    "plan": "enterprise",
     "theme": "shopify\/main",
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698729870,
+  "tsPublished": 1698729883,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -369,7 +369,7 @@
     "implicitSavePreferences": false,
     "cookieIcon": false,
     "blockBots": false,
-    "showCookiesDetails": true,
+    "showCookiesDetails": false,
     "hasTransition": true,
     "blockingPage": false,
     "showOnlyLandingPage": false,
