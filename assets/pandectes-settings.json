@@ -1,11 +1,11 @@
 {
   "store": {
-    "plan": null,
+    "plan": "basic",
     "theme": "shopify\/main",
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698718679,
+  "tsPublished": 1698729212,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
