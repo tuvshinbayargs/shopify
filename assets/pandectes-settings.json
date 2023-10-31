@@ -5,7 +5,7 @@
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698730361,
+  "tsPublished": 1698730465,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -342,7 +342,7 @@
     },
     "type": "opt-both",
     "layouts": {
-      "basic": "{{logo}}{{messagelink}}{{compliance}}{{close}}"
+      "basic": "{{logo}}{{messagelink}}{{compliance}}"
     },
     "position": "top",
     "theme": "wired",
