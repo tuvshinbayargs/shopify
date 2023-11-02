@@ -3,9 +3,9 @@
     "plan": "enterprise",
     "theme": "shopify\/main",
     "primaryLocale": "kk",
-    "adminMode": false
+    "adminMode": true
   },
-  "tsPublished": 1698885977,
+  "tsPublished": 1698886029,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
