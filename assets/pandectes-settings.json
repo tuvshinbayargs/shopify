@@ -5,7 +5,7 @@
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698979134,
+  "tsPublished": 1698979151,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -87,7 +87,7 @@
         "ro": "Acest site web folosește cookie-uri pentru a vă asigura cea mai bună experiență.",
         "sk": "Tento web používa cookies, aby vám zaistil ten najlepší zážitok.",
         "sl": "Ta spletna stran uporablja piškotke za zagotovitev najboljše izkušnje.",
-        "sv": "Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen.",
+        "sv": "Vi använder cookies för att anpassa innehåll och annonser, för att tillhandahålla funktioner för sociala medier och för att analysera vår trafik. Vi delar också information om din användning av vår webbplats med våra sociala medier, reklam- och analyspartners som kan kombinera den med annan information som du har lämnat till dem eller som de har samlat in från din användning av deras tjänster.",
         "kk": "Біз cookie файлдарын мазмұн мен жарнамаларды жекелендіру, әлеуметтік медиа мүмкіндіктерін қамтамасыз ету және трафикті талдау үшін пайдаланамыз. Сондай-ақ біз сайтты пайдалануыңыз туралы ақпаратты әлеуметтік медиа, жарнама және аналитикалық серіктестерімізбен бөлісеміз, олар оны сіз оларға берген немесе олардың қызметтерін пайдалануыңыздан жинаған басқа ақпаратпен біріктіруі мүмкін."
       },
       "dismissButtonText": {
@@ -183,7 +183,7 @@
         "ro": "Preferințe",
         "sk": "Predvoľby",
         "sl": "Nastavitve",
-        "sv": "Preferenser",
+        "sv": "Inställningar",
         "kk": "Параметрлер"
       },
       "allowButtonText": {
@@ -231,7 +231,7 @@
         "ro": "Declin",
         "sk": "Odmietnuť",
         "sl": "Zavrni",
-        "sv": "Neka",
+        "sv": "Nedgång",
         "kk": "Бас тарту"
       },
       "leaveSiteButtonText": {
@@ -255,7 +255,7 @@
         "ro": "Părăsiți acest site",
         "sk": "Opustiť tento web",
         "sl": "Zapustite to spletno mesto",
-        "sv": "Lämna denna webbplats",
+        "sv": "Lämna den här webbplatsen",
         "kk": "Бұл сайттан кетіңіз"
       },
       "cookiePolicyText": {
@@ -303,7 +303,7 @@
         "ro": "Gestionați preferințele de consimțământ",
         "sk": "Spravujte predvoľby súhlasu",
         "sl": "Upravljajte nastavitve privolitve",
-        "sv": "Hantera samtyckeinställningar",
+        "sv": "Hantera samtyckespreferenser",
         "kk": "Келісім параметрлерін басқарыңыз"
       },
       "preferencesPopupIntroText": {
@@ -327,7 +327,7 @@
         "ro": "Folosim cookie-uri pentru a optimiza funcționalitatea site-ului web, a analiza performanța și a vă oferi experiență personalizată. Unele cookie-uri sunt esențiale pentru ca site-ul web să funcționeze și să funcționeze corect. Aceste cookie-uri nu pot fi dezactivate. În această fereastră puteți gestiona preferința dvs. pentru cookie-uri.",
         "sk": "Cookies používame na optimalizáciu funkcií webových stránok, analýzu výkonu a poskytovanie personalizovaného zážitku. Niektoré súbory cookie sú nevyhnutné pre správnu funkciu a správnu funkciu webovej stránky. Tieto súbory cookie nemožno zakázať. V tomto okne môžete spravovať svoje preferencie súborov cookie.",
         "sl": "Piškotke uporabljamo za optimizacijo funkcionalnosti spletnega mesta, analizo uspešnosti in zagotavljanje prilagojene izkušnje za vas. Nekateri piškotki so bistveni za pravilno delovanje in delovanje spletnega mesta. Teh piškotkov ni mogoče onemogočiti. V tem oknu lahko upravljate svoje piškotke.",
-        "sv": "Vi använder cookies för att optimera webbplatsens funktionalitet, analysera prestanda och ge dig personlig upplevelse. Vissa kakor är viktiga för att webbplatsen ska fungera och fungera korrekt. Dessa cookies kan inte inaktiveras. I det här fönstret kan du hantera dina preferenser för cookies.",
+        "sv": "Vi använder cookies för att optimera webbplatsens funktionalitet, analysera prestandan och ge dig en personlig upplevelse. Vissa cookies är nödvändiga för att webbplatsen ska fungera och fungera korrekt. Dessa cookies kan inte inaktiveras. I det här fönstret kan du hantera dina preferenser för cookies.",
         "kk": "Біз cookie файлдарын веб-сайттың функционалдығын оңтайландыру, өнімділікті талдау және сізге жеке тәжірибені қамтамасыз ету үшін пайдаланамыз. Кейбір cookie файлдары веб-сайттың дұрыс жұмыс істеуі және жұмыс істеуі үшін өте маңызды. Бұл cookie файлдарын өшіру мүмкін емес. Бұл терезеде сіз cookie файлдарының таңдауын басқара аласыз."
       },
       "preferencesPopupCloseButtonText": {
@@ -351,7 +351,7 @@
         "ro": "Închide",
         "sk": "Zavrieť",
         "sl": "Zapri",
-        "sv": "Stäng",
+        "sv": "Stänga",
         "kk": "Жабық"
       },
       "preferencesPopupAcceptAllButtonText": {
