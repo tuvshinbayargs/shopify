@@ -5,7 +5,7 @@
     "primaryLocale": "kk",
     "adminMode": false
   },
-  "tsPublished": 1698979151,
+  "tsPublished": 1698979161,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -68,7 +68,7 @@
       },
       "consentText": {
         "bg": "Този уебсайт използва бисквитки, за да гарантира, че получавате най -доброто изживяване.",
-        "cs": "Tento web používá cookies, aby vám zajistil co nejlepší zážitek.",
+        "cs": "Soubory cookie používáme k personalizaci obsahu a reklam, poskytování funkcí sociálních médií a analýze naší návštěvnosti. Informace o vašem používání našich stránek také sdílíme s našimi sociálními médii, reklamními a analytickými partnery, kteří je mohou kombinovat s dalšími informacemi, které jste jim poskytli nebo které shromáždili při vašem používání jejich služeb.",
         "da": "Dette websted bruger cookies for at sikre, at du får den bedste oplevelse.",
         "de": "Diese Website verwendet Cookies, um Ihnen das beste Erlebnis zu bieten.",
         "en": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.",
@@ -116,7 +116,7 @@
       },
       "linkText": {
         "bg": "Научете повече",
-        "cs": "Další informace",
+        "cs": "Zjistěte více",
         "da": "Lær mere",
         "de": "Mehr erfahren",
         "en": "Learn more",
@@ -188,7 +188,7 @@
       },
       "allowButtonText": {
         "bg": "Приемам",
-        "cs": "Přijmout",
+        "cs": "Akceptovat",
         "da": "Acceptere",
         "de": "Annehmen",
         "en": "Accept",
@@ -212,7 +212,7 @@
       },
       "denyButtonText": {
         "bg": "Отклонете",
-        "cs": "Odmítnout",
+        "cs": "Pokles",
         "da": "Afslå",
         "de": "Ablehnen",
         "en": "Decline",
@@ -260,7 +260,7 @@
       },
       "cookiePolicyText": {
         "bg": "Политика за бисквитки",
-        "cs": "Zásady používání cookies",
+        "cs": "Zásady používání souborů cookie",
         "da": "Cookiepolitik",
         "de": "Cookie-Richtlinie",
         "en": "Cookie policy",
@@ -308,7 +308,7 @@
       },
       "preferencesPopupIntroText": {
         "bg": "Ние използваме бисквитки, за да оптимизираме функционалността на уебсайта, да анализираме ефективността и да ви предоставим персонализирано изживяване. Някои бисквитки са от съществено значение за правилното функциониране и функциониране на уебсайта. Тези бисквитки не могат да бъдат деактивирани. В този прозорец можете да управлявате предпочитанията си за бисквитки.",
-        "cs": "Cookies používáme k optimalizaci funkcí webových stránek, analýze výkonu a poskytování personalizovaného zážitku. Některé soubory cookie jsou nezbytné pro správnou funkci a správnou funkci webových stránek. Tyto soubory cookie nelze deaktivovat. V tomto okně můžete spravovat preference cookies.",
+        "cs": "Soubory cookie používáme k optimalizaci funkčnosti webu, analýze výkonu a poskytování personalizovaného zážitku. Některé soubory cookie jsou nezbytné pro správné fungování a fungování webových stránek. Tyto soubory cookie nelze zakázat. V tomto okně můžete spravovat své preference souborů cookie.",
         "da": "Vi bruger cookies til at optimere webstedets funktionalitet, analysere ydelsen og give dig en personlig oplevelse. Nogle cookies er afgørende for at få hjemmesiden til at fungere og fungere korrekt. Disse cookies kan ikke deaktiveres. I dette vindue kan du styre din præference for cookies.",
         "de": "Wir verwenden Cookies, um die Funktionalität der Website zu optimieren, die Leistung zu analysieren und Ihnen ein personalisiertes Erlebnis zu bieten. Einige Cookies sind für den ordnungsgemäßen Betrieb der Website unerlässlich. Diese Cookies können nicht deaktiviert werden. In diesem Fenster können Sie Ihre Präferenzen für Cookies verwalten.",
         "en": "We use cookies to optimize website functionality, analyze the performance, and provide personalized experience to you. Some cookies are essential to make the website operate and function correctly. Those cookies cannot be disabled. In this window you can manage your preference of cookies.",
@@ -380,7 +380,7 @@
       },
       "preferencesPopupRejectAllButtonText": {
         "bg": "Отхвърлете всички",
-        "cs": "Odmítnout všechny",
+        "cs": "Odmítnout vše",
         "da": "Afvis alle",
         "de": "Alles ablehnen",
         "en": "Reject all",
